@@ -163,4 +163,3 @@ public class T04 {
         return String.format("%." + digits + "f", value);
     }
 }
-

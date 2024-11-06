@@ -1,0 +1,2 @@
+kami mengalami sedikir masalah dalam menetukan variabel yang di array
+Kami telah menyelesaikan permasalahan
